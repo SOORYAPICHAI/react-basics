@@ -1,8 +1,8 @@
 // First hurddle to jump 
 
     * Create a folder structure
-    -----> stopped here knowing about Reusable component.
     * Create two components (Reusable component rules). One is functional and another one is Class component
+    -----> stopped here created the ROUTER and absolute path and one component functional and some ground work.
     * Create style.js for both components respectively
     * Create a router and display.
     * Use state and props nestedly. When we change a value in a component it should reflect other component.
@@ -26,3 +26,6 @@
     * File upload
 
 // https://code.visualstudio.com/docs/languages/jsconfig
+// https://reacttraining.com/react-router/web/guides/quick-start
+// https://learnwithparam.com/blog/different-types-of-router-in-react-router/
+// https://material-ui.com/styles/basics/

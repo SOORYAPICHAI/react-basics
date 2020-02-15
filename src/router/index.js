@@ -7,7 +7,7 @@ import {ScreenOne} from "containers/ScreenOne"
 export default function Routers() {
   return (
   
-          <Route path="/" component={ScreenOne} />
+          <Route path="" component={ScreenOne} />
         
   );
 }
