@@ -1,0 +1,28 @@
+// First hurddle to jump 
+
+    * Create a folder structure
+    -----> stopped here knowing about Reusable component.
+    * Create two components (Reusable component rules). One is functional and another one is Class component
+    * Create style.js for both components respectively
+    * Create a router and display.
+    * Use state and props nestedly. When we change a value in a component it should reflect other component.
+    * Create a context in functional and Class component respectively. When we change a value in a component it should reflect other      component.
+
+
+// Things to do
+
+    * About service worker
+    * Caching 
+    * Ejecting packages
+    * Ant Design
+    * React strap
+    * Material UI
+    * Theme
+
+// Adding fields
+
+    * Google location
+    * Date picker
+    * File upload
+
+// https://code.visualstudio.com/docs/languages/jsconfig

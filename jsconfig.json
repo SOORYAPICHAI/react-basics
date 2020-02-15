@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "paths": {
+            "app": [ "src", "src/*" ],
+            "contexts":[ "src/contexts/*", "src/contexts" ],
+            "hooks": [ "src/hooks/*", "src/hooks" ],
+            "components": [ "src/components/*", "src/components" ],
+            "router": [ "src/router/*", "src/router" ]
+           
+        }
+    },
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}
